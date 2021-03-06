@@ -1,0 +1,1 @@
+%~dp0%/nircmd-x64/nircmd.exe standby
